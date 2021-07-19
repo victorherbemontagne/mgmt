@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "gazouyi.growingtogether",
+                "paths": [ "/app/iOS/*"]
+            }
+        ]
+    }
+}
