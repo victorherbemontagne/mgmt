@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission\/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "gazouyi.growing.together",
+      "sha256_cert_fingerprints": [
+        "AF:3B:FF:B8:F8:BA:12:25:D2:00:AB:A6:39:20:56:E9:53:E8:B3:BA:F4:0A:8F:07:EA:FE:53:BF:07:B0:5F:B4"
+      ]
+    }
+  }
+]
